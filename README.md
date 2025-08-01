@@ -20,11 +20,11 @@ This project was developed by a team:
   - [RGB_Component_Detector_Project_Translated.pdf](docs/RGB_Component_Detector_Project_Translated.pdf) – machine-translated report in English (includes source code)  
 
 - [`photos/`](photos) — photos of the device and schematics  
-  1. ![Front view](photos/1.Front%20view%20of%20the%20device.jpg) `1. Front view of the device`  
-  2. ![Top view](photos/2.Top%20view%20of%20the%20device.jpg) `2. Top view of the device`  
-  3. ![Bottom view](photos/3.Bottom%20view%20of%20the%20device.png) `3. Bottom view of the device`  
-  4. ![Inside view](photos/4.Inside%20view%20of%20the%20device.jpg) `4. Inside view of the device`  
-  5. ![Schematic](photos/Schematic%20diagram%20of%20the%20RGB%20component%20detector.png) `Schematic diagram of the detector`
+  1. [Front view](photos/1.Front%20view%20of%20the%20device.jpg) `1. Front view of the device`  
+  2. [Top view](photos/2.Top%20view%20of%20the%20device.jpg) `2. Top view of the device`  
+  3. [Bottom view](photos/3.Bottom%20view%20of%20the%20device.png) `3. Bottom view of the device`  
+  4. [Inside view](photos/4.Inside%20view%20of%20the%20device.jpg) `4. Inside view of the device`  
+  5. [Schematic](photos/Schematic%20diagram%20of%20the%20RGB%20component%20detector.png) `Schematic diagram of the detector`
 
 ---
 
