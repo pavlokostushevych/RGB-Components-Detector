@@ -79,11 +79,11 @@ Projekt został wykonany przez zespół:
   - [RGB_Component_Detector_Project_Translated.pdf](docs/RGB_Component_Detector_Project_Translated.pdf) – automatycznie przetłumaczony raport na angielski (z kodem źródłowym)  
 
 - [`photos/`](photos) — zdjęcia urządzenia oraz schematy  
-  1. ![Widok przodu](photos/1.Front%20view%20of%20the%20device.jpg) `1. Widok przodu urządzenia`  
-  2. ![Widok z góry](photos/2.Top%20view%20of%20the%20device.jpg) `2. Widok urządzenia z góry`  
-  3. ![Widok spodu](photos/3.Bottom%20view%20of%20the%20device.png) `3. Widok spodu urządzenia`  
-  4. ![Widok wnętrza](photos/4.Inside%20view%20of%20the%20device.jpg) `4. Widok wnętrza urządzenia`  
-  5. ![Schemat](photos/Schematic%20diagram%20of%20the%20RGB%20component%20detector.png) `Schemat ideowy detektora`
+  - [Widok przodu urządzenia](photos/1.Front%20view%20of%20the%20device.jpg)
+  - [Widok urządzenia z góry](photos/2.Top%20view%20of%20the%20device.jpg)
+  - [Widok spodu urządzenia](photos/3.Bottom%20view%20of%20the%20device.png) 
+  - [Widok wnętrza urządzenia](photos/4.Inside%20view%20of%20the%20device.jpg)
+  - [Schemat ideowy detektora](photos/Schematic%20diagram%20of%20the%20RGB%20component%20detector.png)
 
 ---
 
