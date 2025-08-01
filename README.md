@@ -11,7 +11,6 @@ This project was developed by a team:
 - Radosław Mierzwa  
 - Pavlo Kostushevych  
 - Mateusz Gwioździk
-- 
 ---
 
 ## 📂 Project Structure
