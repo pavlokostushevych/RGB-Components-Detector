@@ -46,7 +46,7 @@ The project includes the design of the electronic circuit, Arduino software impl
 
 ## 📬 Contact
 
-For questions or suggestions, please contact:
+If you have any questions, feel free to reach out:  
 
 - Email: pavlo.kostushevych@gmail.com  
 - LinkedIn: [linkedin.com/in/pavlo-kostushevych-ab364b376](https://www.linkedin.com/in/pavlo-kostushevych-ab364b376/)
@@ -54,3 +54,62 @@ For questions or suggestions, please contact:
 ---
 
 📍 *Developed at Wrocław University of Science and Technology – Department of Electronic and Photonic Metrology*
+
+**Published with the consent of all team members.**
+---
+## PL
+
+# 🌈 Detektor Składowych RGB
+
+Projekt przedstawia budowę i realizację **detektora składowych kolorów RGB**, wykonanego jako **projekt zespołowy** w ramach kursu *Optoelektronika 2* na Politechnice Wrocławskiej.
+
+Urządzenie umożliwia pomiar **składowych kolorów RGB** otoczenia oraz wyświetlanie wyników na ekranie LCD 2x16 oraz monitorze szeregowym Arduino. Zasilane jest baterią 9V i wykorzystuje czujnik koloru TCS3200 oraz diodę RGB.
+
+Projekt został wykonany przez zespół:
+
+- Radosław Mierzwa  
+- Pavlo Kostushevych  
+- Mateusz Gwioździk 
+---
+
+## 📂 Struktura projektu
+
+- [`docs/`](docs) — dokumentacja projektu w formie PDF  
+  - [Detektor_Skladowych_RGB_Project.pdf](docs/Detektor_Skladowych_RGB_Project.pdf) – oryginalny raport w języku polskim (zawiera kod źródłowy)  
+  - [RGB_Component_Detector_Project_Translated.pdf](docs/RGB_Component_Detector_Project_Translated.pdf) – automatycznie przetłumaczony raport na angielski (z kodem źródłowym)  
+
+- [`photos/`](photos) — zdjęcia urządzenia oraz schematy  
+  1. ![Widok przodu](photos/1.Front%20view%20of%20the%20device.jpg) `1. Widok przodu urządzenia`  
+  2. ![Widok z góry](photos/2.Top%20view%20of%20the%20device.jpg) `2. Widok urządzenia z góry`  
+  3. ![Widok spodu](photos/3.Bottom%20view%20of%20the%20device.png) `3. Widok spodu urządzenia`  
+  4. ![Widok wnętrza](photos/4.Inside%20view%20of%20the%20device.jpg) `4. Widok wnętrza urządzenia`  
+  5. ![Schemat](photos/Schematic%20diagram%20of%20the%20RGB%20component%20detector.png) `Schemat ideowy detektora`
+
+---
+
+## 🛠️ Opis projektu
+
+Jest to **projekt zespołowy**, który pozwala na pomiar składowych kolorów RGB analizowanych powierzchni i prezentację wyników na wyświetlaczu LCD oraz monitorze szeregowym Arduino.
+
+Projekt obejmuje zaprojektowanie układu elektronicznego, implementację oprogramowania na platformę Arduino oraz testy i kalibrację urządzenia.
+
+---
+
+## 📁 Jak używać
+
+- Zapoznaj się z dokumentacją projektu i wynikami pomiarów dostępnymi w folderze [`docs/`](docs).  
+- Kod źródłowy znajduje się w dołączonych plikach dokumentacji.  
+- Przeglądaj zdjęcia i schematy w folderze [`photos/`](photos) dla lepszego zrozumienia budowy urządzenia.
+
+---
+
+W razie pytań zapraszam do kontaktu:   
+
+- Email: pavlo.kostushevych@gmail.com  
+- LinkedIn: [linkedin.com/in/pavlo-kostushevych-ab364b376](https://www.linkedin.com/in/pavlo-kostushevych-ab364b376/)
+
+---
+
+📍 *Projekt zrealizowany na Politechnice Wrocławskiej – Katedra Metrologii Elektronicznej i Fotonicznej*
+
+**Opublikowany za zgodą współautorów.**
