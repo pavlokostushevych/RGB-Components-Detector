@@ -21,11 +21,11 @@ The following documents are available in the [`docs/`](docs) folder:
 
 Located in the [`photos/`](photos) folder:
 
-1. ![Front view](photos/1.Front%20view%20of%20the%20device.jpg) `1. Front view of the device`
-2. ![Top view](photos/2.Top%20view%20of%20the%20device.jpg) `2. Top view of the device`
-3. ![Bottom view](photos/3.Bottom%20view%20of%20the%20device.png) `3. Bottom view of the device`
-4. ![Inside view](photos/4.Inside%20view%20of%20the%20device.jpg) `4. Inside view of the device`
-5. ![Schematic](photos/Schematic%20diagram%20of%20the%20RGB%20component%20detector.png) `Schematic diagram`
+1. [Front view](photos/1.Front%20view%20of%20the%20device.jpg) `1. Front view of the device`
+2. [Top view](photos/2.Top%20view%20of%20the%20device.jpg) `2. Top view of the device`
+3. [Bottom view](photos/3.Bottom%20view%20of%20the%20device.png) `3. Bottom view of the device`
+4. [Inside view](photos/4.Inside%20view%20of%20the%20device.jpg) `4. Inside view of the device`
+5. [Schematic](photos/Schematic%20diagram%20of%20the%20RGB%20component%20detector.png) `Schematic diagram`
 
 ---
 
@@ -90,11 +90,11 @@ Dokumenty znajdują się w folderze [`docs/`](docs):
 
 W folderze [`photos/`](photos) znajdują się:
 
-1. ![Front](photos/1.Front%20view%20of%20the%20device.jpg) `1. Widok przodu urządzenia`  
-2. ![Top](photos/2.Top%20view%20of%20the%20device.jpg) `2. Widok urządzenia z góry`  
-3. ![Bottom](photos/3.Bottom%20view%20of%20the%20device.png) `3. Widok spodu urządzenia`  
-4. ![Inside](photos/4.Inside%20view%20of%20the%20device.jpg) `4. Widok środka urządzenia`  
-5. ![Schematic](photos/Schematic%20diagram%20of%20the%20RGB%20component%20detector.png) `Schemat ideowy detektora`
+1. [Front](photos/1.Front%20view%20of%20the%20device.jpg) `1. Widok przodu urządzenia`  
+2. [Top](photos/2.Top%20view%20of%20the%20device.jpg) `2. Widok urządzenia z góry`  
+3. [Bottom](photos/3.Bottom%20view%20of%20the%20device.png) `3. Widok spodu urządzenia`  
+4. [Inside](photos/4.Inside%20view%20of%20the%20device.jpg) `4. Widok środka urządzenia`  
+5. [Schematic](photos/Schematic%20diagram%20of%20the%20RGB%20component%20detector.png) `Schemat ideowy detektora`
 
 ---
 
