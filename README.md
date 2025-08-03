@@ -16,8 +16,9 @@ This project was developed by a team:
 ## 📂 Project Structure
 
 - [`docs/`](docs) — project documentation in PDF format  
-  - [Detektor_Skladowych_RGB_Project.pdf](docs/Detektor_Skladowych_RGB_Project.pdf) – original report in Polish (includes source code)  
-  - [RGB_Component_Detector_Project_Translated.pdf](docs/RGB_Component_Detector_Project_Translated.pdf) – machine-translated report in English (includes source code)  
+  - [Detektor_Skladowych_RGB_Project.pdf](docs/Detektor_Skladowych_RGB_Project.pdf) – original report in Polish  
+  - [RGB_Component_Detector_Project_Translated.pdf](docs/RGB_Component_Detector_Project_Translated.pdf) – machine-translated report in English
+  - [Source code](docs/RGB_Component_Detector_Project_Translated.pdf) 
 
 - [`photos/`](photos) — photos of the device and schematics  
   - [Front view of the device](photos/1.Front%20view%20of%20the%20device.jpg) 
@@ -38,8 +39,7 @@ The project includes the design of the electronic circuit, Arduino software impl
 
 ## 📁 How to Use
 
-- Review the detailed project documentation and measurement results available in the [`docs/`](docs) folder.  
-- The source code is included within the documentation PDFs.  
+- Review the detailed project documentation, source code and measurement results available in the [`docs/`](docs) folder.  
 - Browse photos and schematics in the [`photos/`](photos) folder to better understand the device construction.
 
 ---
@@ -75,8 +75,9 @@ Projekt został wykonany przez zespół:
 ## 📂 Struktura projektu
 
 - [`docs/`](docs) — dokumentacja projektu w formie PDF  
-  - [Detektor_Skladowych_RGB_Project.pdf](docs/Detektor_Skladowych_RGB_Project.pdf) – oryginalny raport w języku polskim (zawiera kod źródłowy)  
-  - [RGB_Component_Detector_Project_Translated.pdf](docs/RGB_Component_Detector_Project_Translated.pdf) – automatycznie przetłumaczony raport na angielski (z kodem źródłowym)  
+  - [Detektor_Skladowych_RGB_Project.pdf](docs/Detektor_Skladowych_RGB_Project.pdf) – oryginalny raport w języku polskim
+  - [RGB_Component_Detector_Project_Translated.pdf](docs/RGB_Component_Detector_Project_Translated.pdf) – automatycznie przetłumaczony raport na angielski
+  - [Kod źródłowy](docs/RGB_Component_Detector_Project_Translated.pdf) 
 
 - [`photos/`](photos) — zdjęcia urządzenia oraz schematy  
   - [Widok przodu urządzenia](photos/1.Front%20view%20of%20the%20device.jpg)
@@ -97,8 +98,7 @@ Projekt obejmuje zaprojektowanie układu elektronicznego, implementację oprogra
 
 ## 📁 Jak używać
 
-- Zapoznaj się z dokumentacją projektu i wynikami pomiarów dostępnymi w folderze [`docs/`](docs).  
-- Kod źródłowy znajduje się w dołączonych plikach dokumentacji.  
+- Zapoznaj się z dokumentacją projektu, kodem źródłowym i wynikami pomiarów dostępnymi w folderze [`docs/`](docs).  
 - Przeglądaj zdjęcia i schematy w folderze [`photos/`](photos) dla lepszego zrozumienia budowy urządzenia.
 
 ---
