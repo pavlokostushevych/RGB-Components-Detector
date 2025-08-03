@@ -18,7 +18,7 @@ This project was developed by a team:
 - [`docs/`](docs) — project documentation in PDF format  
   - [Detektor_Skladowych_RGB_Project.pdf](docs/Detektor_Skladowych_RGB_Project.pdf) – original report in Polish  
   - [RGB_Component_Detector_Project_Translated.pdf](docs/RGB_Component_Detector_Project_Translated.pdf) – machine-translated report in English
-  - [Source code](docs/RGB_Component_Detector_Project_Translated.pdf) 
+  - [Source code](docs/RGB_Component_Detector.ino) 
 
 - [`photos/`](photos) — photos of the device and schematics  
   - [Front view of the device](photos/1.Front%20view%20of%20the%20device.jpg) 
@@ -77,7 +77,7 @@ Projekt został wykonany przez zespół:
 - [`docs/`](docs) — dokumentacja projektu w formie PDF  
   - [Detektor_Skladowych_RGB_Project.pdf](docs/Detektor_Skladowych_RGB_Project.pdf) – oryginalny raport w języku polskim
   - [RGB_Component_Detector_Project_Translated.pdf](docs/RGB_Component_Detector_Project_Translated.pdf) – automatycznie przetłumaczony raport na angielski
-  - [Kod źródłowy](docs/RGB_Component_Detector_Project_Translated.pdf) 
+  - [Kod źródłowy](docs/RGB_Component_Detector.ino) 
 
 - [`photos/`](photos) — zdjęcia urządzenia oraz schematy  
   - [Widok przodu urządzenia](photos/1.Front%20view%20of%20the%20device.jpg)
