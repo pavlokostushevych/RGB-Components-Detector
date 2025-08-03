@@ -56,6 +56,7 @@ If you have any questions, feel free to reach out:
 📍 *Developed at Wrocław University of Science and Technology – Department of Electronic and Photonic Metrology*
 
 **Published with the consent of all team members.**
+
 ---
 ## PL
 
